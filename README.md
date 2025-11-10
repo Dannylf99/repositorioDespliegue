@@ -14,8 +14,8 @@
 
 ## URL DEL REPOSITORIO
 
-https://github.com/daniel-lofer/repositorio-despliegue-aplicaciones-web/
+https://github.com/Dannylf99/repositorioDespliegue/
 
 ## Captura del Network Graph
 
-![image-20251021183850064](./README.assets/image-20251021183850064.png)
+![image-20251110181117294](./README.assets/image-20251110181117294.png)
